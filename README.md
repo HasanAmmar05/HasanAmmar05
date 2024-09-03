@@ -7,9 +7,9 @@ A passionate Software Engineering student at University Technology Malaysia
 ## Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/hasan-al-talib-6095b3323/"><img alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a>
-  <a href="https://www.facebook.com/hasan.ammar.52/"><img alt="Facebook" title="Facebook" src="https://img.icons8.com/color/48/000000/facebook.png" width="40"/></a>
-  <a href="https://www.instagram.com/hasanammar05/?hl=en"><img alt="Instagram" title="Instagram" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40"/></a>
+  <a href="https://www.linkedin.com/in/hasan-al-talib-6095b3323/"><img alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" width="50px"/></a>
+  <a href="https://www.facebook.com/hasan.ammar.52/"><img alt="Facebook" title="Facebook" src="https://img.icons8.com/color/48/000000/facebook.png" width="50px"/></a>
+  <a href="https://www.instagram.com/hasanammar05/?hl=en"><img alt="Instagram" title="Instagram" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="50px"/></a>
 </p>
 
 ## Frontend Technologies
@@ -23,10 +23,9 @@ A passionate Software Engineering student at University Technology Malaysia
 
 ## Other Tools and Technologies
 
-<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
+<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 <img align="left" alt="C++" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/cplusplus/cplusplus.png" />
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
-<img align="left" alt="Machine Learning" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/machine-learning/machine-learning.png" />
 
 <br /><br />
 
