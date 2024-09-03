@@ -27,7 +27,7 @@ Some of the other tools and technologies I use:
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
 <img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" />
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
-<img align="left" alt="Machine Learning" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/machine-learning/machine-learning.png" />
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-red?style=flat&logo=machine-learning)
 
 <br /><br />
 
