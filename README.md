@@ -6,9 +6,8 @@ A passionate Software Engineering student at University Technology Malaysia
 
 ### Connect with me:
 
-<img align="left" alt="LinkedIn" width="40px" src="https://fontawesome.com/icons/linkedin?f=brands&s=solid&pc=%233169c9&sc=%233169c9" />
-<img align="left" alt="Facebook" width="40px" src="https://fontawesome.com/icons/facebook?f=brands&s=solid&pc=%23387bf0&sc=%23387bf0" />
-<img align="left" alt="Instagram" width="40px" src="https://fontawesome.com/icons/square-instagram?f=brands&s=solid&pc=%23e43fb8&sc=%23e43fb8"
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/hasan-al-talib-6095b3323/)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue)](https://www.facebook.com/hasan.ammar.52/)
 
 <br /><br />
 
