@@ -24,7 +24,7 @@ A passionate Software Engineering student at University Technology Malaysia
 ## Other Tools and Technologies
 
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
-<img align="left" alt="C++" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/cplusplus/cplusplus.png" />
+<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
 
 <br /><br />
