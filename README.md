@@ -4,33 +4,28 @@ A passionate Software Engineering student at University Technology Malaysia
 🔭 I’m currently working on web development, Machine Learning, and trying to keep myself updated with the latest technologies in the industry.  
 📫 How to reach me: altalib.hasan05@gmail.com / ammar.abdulaziz@graduate.utm.my 
 
-### Connect with me:
+## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/hasan-al-talib-6095b3323/)
-[![Facebook](https://img.shields.io/badge/-Facebook-blue)](https://www.facebook.com/hasan.ammar.52/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/hasan-al-talib-6095b3323/)
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?logo=facebook)](https://www.facebook.com/hasan.ammar.52/)
+[![Instagram](https://img.shields.io/badge/Instagram-Connect-blue?logo=instagram)](https://www.instagram.com/hasanammar05/?hl=en)
 
-<br /><br />
+## Frontend Technologies
 
-## Frontend Technologies:
-
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
-
-<br /><br />
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 
 ## Other Tools and Technologies
 
-Some of the other tools and technologies I use:
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=google&logoColor=white)
 
-<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
-<img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" />
-<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
-<img align="left" alt="Machine Learning" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/artificial-intelligence/artificial-intelligence.png" />
+## Most Used Languages
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
 
-<br /><br />
-
-## Most Used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/yourusername/github-readme-stats)
+<!-- You can replace YOUR_GITHUB_USERNAME with your actual GitHub username to display your most used languages. -->
