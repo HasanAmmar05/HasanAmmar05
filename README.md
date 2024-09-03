@@ -6,9 +6,9 @@ A passionate Software Engineering student at University Technology Malaysia
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/hasan-al-talib-6095b3323/)
-[![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?logo=facebook)](https://www.facebook.com/hasan.ammar.52/)
-[![Instagram](https://img.shields.io/badge/Instagram-Connect-blue?logo=instagram)](https://www.instagram.com/hasanammar05/?hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-al-talib-6095b3323/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?logo=facebook&logoColor=white)](https://www.facebook.com/hasan.ammar.52/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/hasanammar05/?hl=en)
 
 ## Frontend Technologies
 
