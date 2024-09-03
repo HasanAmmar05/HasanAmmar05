@@ -1,39 +1,27 @@
-# Hello, I'm Hasan Ammar 👋
+Hi 👋, I'm Hasan Al-Talib
+A passionate developer from [Your Location]
 
-## About Me
-Welcome to my GitHub profile! I'm a budding developer with a keen interest in front-end technologies and a passion for learning new tools and technologies.
+🔭 I’m currently working on web development and trying to keep myself updated with the latest technologies.  
+🌐 All of my projects are available at [Your Website URL]  
+📝 I regularly write articles on [Your Medium Profile]  
+📫 How to reach me: hasan@example.com  
 
-## Frontend Technologies
-Here are some of the front-end technologies I'm working with:
+### Connect with me:
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hasan-al-talib-6095b3323/)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=facebook)](https://www.facebook.com/hasan.ammar.52/)
 
-<br /><br />
+### Frontend Technologies:
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
 
-## Other Tools and Technologies
-Some of the other tools and technologies I use:
+### Other Tools and Technologies:
+![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-red?style=flat&logo=machine-learning)
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/cplusplus/cplusplus.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
-<img align="left" alt="Machine Learning" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/machine-learning/machine-learning.png" />
-
-<br /><br />
-
-## Most Used Languages
-Here are the languages I use the most:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-<br />
-
-## Connect with me
-Feel free to connect with me through the following platforms:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/hasan-al-talib-6095b3323/)
-[![Facebook](https://img.shields.io/badge/-Facebook-blue)](https://www.facebook.com/hasan.ammar.52/)
-
--->
+### Most Used Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/yourusername/github-readme-stats)
