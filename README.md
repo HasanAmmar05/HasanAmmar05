@@ -4,12 +4,13 @@ A passionate Software Engineering student at University Technology Malaysia
 🔭 I’m currently working on web development, Machine Learning, and trying to keep myself updated with the latest technologies in the industry.  
 📫 How to reach me: altalib.hasan05@gmail.com / ammar.abdulaziz@graduate.utm.my 
 
-
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-al-talib-6095b3323/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?logo=facebook&logoColor=white)](https://www.facebook.com/hasan.ammar.52/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/hasanammar05/?hl=en)
+<p align="left">
+  <a href="https://www.linkedin.com/in/hasan-al-talib-6095b3323/"><img alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a>
+  <a href="https://www.facebook.com/hasan.ammar.52/"><img alt="Facebook" title="Facebook" src="https://img.icons8.com/color/48/000000/facebook.png" width="40"/></a>
+  <a href="https://www.instagram.com/hasanammar05/?hl=en"><img alt="Instagram" title="Instagram" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40"/></a>
+</p>
 
 ## Frontend Technologies
 
