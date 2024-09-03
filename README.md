@@ -32,6 +32,6 @@ A passionate Software Engineering student at University Technology Malaysia
 
 ## Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanAmmar05&layout=compact&theme=dark)
 
 <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username to display your most used languages. -->
