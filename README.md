@@ -26,7 +26,7 @@ A passionate Software Engineering student at University Technology Malaysia
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
-<img align="left" alt="Python" width="50px" src="C:\Users\Victus by HP\Downloads\Vitejs-logo.svg.png" />
+<img align="left" alt="Vite" width="50px" src="https://commons.wikimedia.org/wiki/File:Vitejs-logo.svg" />
 
 <br /><br />
 
