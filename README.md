@@ -7,7 +7,7 @@ A passionate Software Engineering student at University Technology Malaysia
 ## Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/hasan-al-talib-6095b3323/"><img alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" width="50px"/></a>
+  <a href="https://www.linkedin.com/in/hasan-al-talib-6095b3323/"><img alt="LinkedIn" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="50px" width="50px"/></a>
 <a href="https://www.facebook.com/hasan.ammar.52/" target="_blank">
   <img alt="Facebook" title="Facebook" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Facebook_icon_2013.svg" width="50px" />
 </a>
