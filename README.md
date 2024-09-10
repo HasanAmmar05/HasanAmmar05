@@ -8,7 +8,9 @@ A passionate Software Engineering student at University Technology Malaysia
 
 <p align="left">
   <a href="https://www.linkedin.com/in/hasan-al-talib-6095b3323/"><img alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" width="50px"/></a>
-  <a href="https://www.facebook.com/hasan.ammar.52/"><img alt="Facebook" title="Facebook" src="https://commons.wikimedia.org/wiki/File:Facebook_f_logo_%282019%29.svg" width="50px"/></a>
+<a href="https://www.facebook.com/hasan.ammar.52/" target="_blank">
+  <img alt="Facebook" title="Facebook" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="50px" />
+</a>
   <a href="https://www.instagram.com/hasanammar05/?hl=en"><img alt="Instagram" title="Instagram" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="50px"/></a>
 </p>
 
