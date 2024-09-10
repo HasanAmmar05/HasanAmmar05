@@ -11,7 +11,7 @@ A passionate Software Engineering student at University Technology Malaysia
 <a href="https://www.facebook.com/hasan.ammar.52/" target="_blank">
   <img alt="Facebook" title="Facebook" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Facebook_icon_2013.svg" width="50px" />
 </a>
-  <a href="https://www.instagram.com/hasanammar05/?hl=en"><img alt="Instagram" title="Instagram" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="50px"/></a>
+  <a href="https://www.instagram.com/hasanammar05/?hl=en"><img alt="Instagram" title="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="50px" width="50px"/></a>
 </p>
 
 ## Frontend Technologies
