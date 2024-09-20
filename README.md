@@ -20,6 +20,7 @@ A passionate Software Engineering student at University Technology Malaysia
 <img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
+<img align="left" alt="React" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
 
 <br /><br />
 
