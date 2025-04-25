@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Projects I'm Proud Of
+## 🚀 Relevant Projects
 
 - 🔒 **GeoGuard** – Real-time crime visualization app (🏅 I-Hax 2024 winner)  
   *Tech:* React.js, Node.js, Tailwind CSS, MongoDB, LLaMA  
