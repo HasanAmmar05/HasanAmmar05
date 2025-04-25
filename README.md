@@ -1,41 +1,88 @@
 # Hi 👋, I'm Hasan Al-Talib  
-A  passionate 2nd year Software Engineering student at University Technology Malaysia
 
-## 🔭 I’m currently working on web development, Machine Learning, and trying to keep myself updated with the latest technologies in the industry.  
-📫 How to reach me: altalib.hasan05@gmail.com / ammar.abdulaziz@graduate.utm.my 
+🎓 A driven 2nd-year Software Engineering student at Universiti Teknologi Malaysia (CGPA: 3.94), passionate about full-stack development, AI-powered applications, and creating impactful software solutions.  
 
-## Connect with me
+🏆 Hackathon awardee — “Best Product Quality” at I-Hax 2024.  
+📍 Kuala Lumpur, Malaysia  
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/hasan-al-talib-6095b3323/"><img alt="LinkedIn" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40px" margin= "30px"/></a>
-<a href="https://www.facebook.com/hasan.ammar.52/" target="_blank">
-  <img alt="Facebook" title="Facebook" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Facebook_icon_2013.svg" width="40px" margin= "30px" />
-</a>
-  <a href="https://www.instagram.com/hasanammar05/?hl=en"><img alt="Instagram" title="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" margin= "30px" width="40px"/></a>
-</p>
+---
 
-## Frontend Technologies
+## 🌱 Currently Learning & Building
+- Full-stack web apps with **Next.js**, **Node.js**, and **MongoDB**
+- AI-powered solutions using **LLaMA**, **Supabase**, and **Express.js**
+- Improving design-to-deployment flow with **Sanity CMS**, **NextAuth**, **Vite**, and **Figma**
+- Participating in hackathons to sharpen team collaboration and real-world problem-solving
 
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
-<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
-<img align="left" alt="React" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
+---
 
-<br /><br />
+## 🚀 Projects I'm Proud Of
+- 🔒 **GeoGuard** – Real-time crime visualization app (🏅 I-Hax 2024 winner)  
+  *Tech:* React.js, Node.js, Tailwind CSS, MongoDB, LLaMA  
+  [View Project](https://github.com/KaifHalak/I-HAX-Team-IT-Support)
 
-## Other Tools and Technologies
+- 🌐 **Startup-Hub** – Platform for entrepreneurs to showcase and connect with investors  
+  *Tech:* Next.js, Sanity, TypeScript, NextAuth.js  
+  [Live Demo](https://nextjs-full-stack-app-9bi4-60jowrpqp-hasanammar05s-projects.vercel.app/)
 
-<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
-<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
-<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
-<img align="left" alt="Vite" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" />
+- 📈 **ProductiveGrounds** – Chrome extension rewarding productive YouTube usage  
+  *Tech:* HTML, CSS, Supabase, Express.js, LLaMA  
+  [GitHub](https://github.com/HasanAmmar05/Supabase-Hackathon)
 
+- 🧾 **Subscription Tracker API** – RESTful backend for subscription management  
+  *Tech:* Node.js, Express.js, MongoDB, JWT  
+  [GitHub](https://github.com/HasanAmmar05/Subscription-Tracker-API)
 
-<br /><br />
+---
 
-## Most Used Languages
+## 🧠 Skills
+
+### 👨‍💻 Languages
+`C++` `Python` `JavaScript` `TypeScript`
+
+### 🧩 Frontend
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
+<img align="left" alt="Next.js" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" />
+<img align="left" alt="Tailwind" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
+<br/><br/>
+
+### 🛠️ Backend & Tools
+<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
+<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
+<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
+<img align="left" alt="Vite" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" />
+<img align="left" alt="Supabase" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/supabase/supabase.png" />
+<img align="left" alt="Sanity" width="40px" src="https://avatars.githubusercontent.com/u/17177659?s=200&v=4" />
+<br/><br/>
+
+---
+
+## 📜 Certifications
+- Meta – Front-End Developer Specialization  
+- Scrimba – Professional React Developer  
+- Nvidia – AI Infrastructure and Operations Fundamentals  
+- IBM – Python for Data Science, AI & Development  
+- Google – Introduction to Generative AI  
+- Intel – AI Fundamentals  
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: altalib.hasan05@gmail.com | ammar.abdulaziz@graduate.utm.my  
+- 📞 Phone: +6011-1118-5124  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/hasan-al-talib-6095b3323/)  
+- 🧑‍💻 [GitHub](https://github.com/HasanAmmar05)  
+- 📸 [Instagram](https://www.instagram.com/hasanammar05/?hl=en)  
+- 👤 [Facebook](https://www.facebook.com/hasan.ammar.52/)
+
+---
+
+## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanAmmar05&layout=compact&theme=dark)
 
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username to display your most used languages. -->
+
