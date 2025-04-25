@@ -1,8 +1,9 @@
 # Hi 👋, I'm Hasan Al-Talib  
 
-🎓 A driven 2nd-year Software Engineering student at Universiti Teknologi Malaysia (CGPA: 3.94), passionate about full-stack development, AI-powered applications, and creating impactful software solutions.  
+🚀 Building solutions with code & curiosity | Web Dev | AI Explorer | UTM SE '26  
 
-🏆 Hackathon awardee — “Best Product Quality” at I-Hax 2024.  
+🎓 2nd-year Software Engineering student at Universiti Teknologi Malaysia (CGPA: 3.94)  
+🏆 Hackathon awardee — “Best Product Quality” at I-Hax 2024  
 📍 Kuala Lumpur, Malaysia  
 
 ---
@@ -16,21 +17,27 @@
 ---
 
 ## 🚀 Projects I'm Proud Of
+
 - 🔒 **GeoGuard** – Real-time crime visualization app (🏅 I-Hax 2024 winner)  
   *Tech:* React.js, Node.js, Tailwind CSS, MongoDB, LLaMA  
-  [View Project](https://github.com/KaifHalak/I-HAX-Team-IT-Support)
+  [🔗 GitHub Repo](https://github.com/KaifHalak/I-HAX-Team-IT-Support)
 
 - 🌐 **Startup-Hub** – Platform for entrepreneurs to showcase and connect with investors  
   *Tech:* Next.js, Sanity, TypeScript, NextAuth.js  
-  [Live Demo](https://nextjs-full-stack-app-9bi4-60jowrpqp-hasanammar05s-projects.vercel.app/)
+  [🌐 Live Demo](https://nextjs-full-stack-app-9bi4-60jowrpqp-hasanammar05s-projects.vercel.app/)
 
 - 📈 **ProductiveGrounds** – Chrome extension rewarding productive YouTube usage  
   *Tech:* HTML, CSS, Supabase, Express.js, LLaMA  
-  [GitHub](https://github.com/HasanAmmar05/Supabase-Hackathon)
+  [🔗 GitHub Repo](https://github.com/HasanAmmar05/Supabase-Hackathon)
 
 - 🧾 **Subscription Tracker API** – RESTful backend for subscription management  
   *Tech:* Node.js, Express.js, MongoDB, JWT  
-  [GitHub](https://github.com/HasanAmmar05/Subscription-Tracker-API)
+  [🔗 GitHub Repo](https://github.com/HasanAmmar05/Subscription-Tracker-API)
+
+---
+
+## 💻 Tech Stack Summary  
+`JavaScript` • `TypeScript` • `React.js` • `Next.js` • `Node.js` • `MongoDB` • `Tailwind CSS` • `Supabase` • `Sanity CMS` • `Express.js`
 
 ---
 
@@ -85,5 +92,15 @@
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanAmmar05&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanAmmar05&layout=compact&theme=dark)  
+![Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HasanAmmar05&show_icons=true&theme=dark)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=HasanAmmar05&theme=dark)](https://git.io/streak-stats)
+
+---
+
+_Thanks for stopping by! 🙌_  
+_“Striving to build meaningful tech, one project at a time.”_
+
+
+---
 
