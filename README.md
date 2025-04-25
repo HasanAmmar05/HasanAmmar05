@@ -37,28 +37,40 @@
 ## 🧠 Skills
 
 ### 👨‍💻 Languages
-<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" /> <img align="left" alt="TypeScript" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" /> <img align="left" alt="C++" width="50px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" /> <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" /> <br/><br/>
+<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
+<img align="left" alt="TypeScript" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
+<img align="left" alt="C++" width="50px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
+<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
+<br/><br/>
 
 ### 🧩 Frontend
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" /> <img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" /> <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" /> <img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" /> <img align="left" alt="Next.js" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" /> <img align="left" alt="Tailwind" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" /> <br/><br/>
-
+<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
+<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
+<img align="left" alt="Next.js" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" />
+<img align="left" alt="Tailwind" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
+<br/><br/>
 
 ### 🛠️ Backend & Tools
-<img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" /> <img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" /> <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" /> <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" /> <img align="left" alt="Vite" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" /> <img align="left" alt="Supabase" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/supabase/supabase.png" /> <img align="left" alt="Sanity" width="50px" src="https://avatars.githubusercontent.com/u/17177659?s=200&v=4" /> <br/><br/>
+<img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
+<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
+<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
+<img align="left" alt="Vite" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" />
+<img align="left" alt="Supabase" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/supabase/supabase.png" />
+<img align="left" alt="Sanity" width="50px" src="https://avatars.githubusercontent.com/u/17177659?s=200&v=4" />
+<br/><br/>
+
 ---
 
 ## 📜 Certifications
-Meta – Front-End Developer Specialization
-
-Scrimba – Professional React Developer
-
-Nvidia – AI Infrastructure and Operations Fundamentals
-
-IBM – Python for Data Science, AI & Development
-
-Google – Introduction to Generative AI
-
-Intel – AI Fundamentals 
+- [Meta – Front-End Developer Specialization](https://www.coursera.org/account/accomplishments/specialization/BZ78CTCI7RJ9)  
+- [Scrimba – Professional React Developer](https://www.coursera.org/account/accomplishments/professional-cert/8RFHG01Q8EMD)  
+- [Nvidia – AI Infrastructure and Operations Fundamentals](https://www.coursera.org/account/accomplishments/specialization/5XE3EESIIH5U)  
+- [IBM – Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/verify/XQHXBA87DOZ2)  
+- [Google – Introduction to Generative AI](https://www.coursera.org/account/accomplishments/verify/QGBN1BS6EVVY)  
+- [Intel – AI Fundamentals](https://www.coursera.org/account/accomplishments/verify/MLK39B64QO7X)
 
 ---
 
@@ -74,5 +86,4 @@ Intel – AI Fundamentals
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanAmmar05&layout=compact&theme=dark)
-
 
