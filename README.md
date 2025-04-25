@@ -48,12 +48,17 @@
 ---
 
 ## 📜 Certifications
-- Meta – Front-End Developer Specialization  
-- Scrimba – Professional React Developer  
-- Nvidia – AI Infrastructure and Operations Fundamentals  
-- IBM – Python for Data Science, AI & Development  
-- Google – Introduction to Generative AI  
-- Intel – AI Fundamentals  
+Meta – Front-End Developer Specialization
+
+Scrimba – Professional React Developer
+
+Nvidia – AI Infrastructure and Operations Fundamentals
+
+IBM – Python for Data Science, AI & Development
+
+Google – Introduction to Generative AI
+
+Intel – AI Fundamentals 
 
 ---
 
