@@ -37,7 +37,7 @@
 ## 🧠 Skills
 
 ### 👨‍💻 Languages
-`C++` `Python` `JavaScript` `TypeScript`
+<img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" /> <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" /> <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" /> <img align="left" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" /> <br/><br/>
 
 ### 🧩 Frontend
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
@@ -76,8 +76,6 @@
 - 📞 Phone: +6011-1118-5124  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/hasan-al-talib-6095b3323/)  
 - 🧑‍💻 [GitHub](https://github.com/HasanAmmar05)  
-- 📸 [Instagram](https://www.instagram.com/hasanammar05/?hl=en)  
-- 👤 [Facebook](https://www.facebook.com/hasan.ammar.52/)
 
 ---
 
