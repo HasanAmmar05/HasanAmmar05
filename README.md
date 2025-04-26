@@ -60,7 +60,6 @@
 
 ### 📊 APIs & Data
 <img align="left" alt="GraphQL" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png" />
-<img align="left" alt="BigQuery" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Google_BigQuery_Logo.png" />
 <img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
 <img align="left" alt="PostgreSQL" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" />
 <br/><br/>
@@ -73,7 +72,6 @@
 ### 🤖 Other
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
 <img align="left" alt="C++" width="50px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
-<img align="left" alt="AI" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Logo_openai.svg" />
 <br/><br/>
 
 
