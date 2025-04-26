@@ -62,6 +62,8 @@
 ### 🛠️ Backend & Tools
 <img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />
+<img align="left" alt="PostgreSQL" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" />
+<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
 <img align="left" alt="Vite" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" />
