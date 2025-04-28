@@ -9,8 +9,7 @@
 ---
 
 ## 🌱 Currently Learning & Building
-- Full-stack web apps with **Next.js**, **Node.js**, and **MongoDB**
-- AI-powered solutions using **LLaMA**, **Supabase**, and **Express.js**
+- Full-stack web apps with **ReactJS**, **Next.js**, **Node.js**, **MongoDB**, and **Express.js**
 - Improving design-to-deployment flow with **Sanity CMS**, **NextAuth**, **Vite**, and **Figma**
 - Participating in hackathons to sharpen team collaboration and real-world problem-solving
 
