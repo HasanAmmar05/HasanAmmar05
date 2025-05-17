@@ -36,7 +36,7 @@
 ---
 
 ## 💻 Tech Stack Summary  
-`JavaScript` • `TypeScript` • `React.js` • `Next.js` • `Node.js` • `MongoDB` • `Tailwind CSS` • `Supabase` • `Sanity CMS` • `Express.js`
+`JavaScript` • `TypeScript` • `React.js` • `Next.js` • `Node.js` • `MongoDB` • `Tailwind CSS` • `Supabase` • `Express.js`
 
 ---
 
