@@ -21,10 +21,6 @@
   *Tech:* React.js, Node.js, Tailwind CSS, MongoDB, LLaMA  
   [🔗 GitHub Repo](https://github.com/KaifHalak/I-HAX-Team-IT-Support)
 
-- 🌐 **Startup-Hub** – Platform for entrepreneurs to showcase and connect with investors  
-  *Tech:* Next.js, Sanity, TypeScript, NextAuth.js  
-  [🌐 Live Demo](https://nextjs-full-stack-app-9bi4-60jowrpqp-hasanammar05s-projects.vercel.app/)
-
 - 📈 **ProductiveGrounds** – Chrome extension rewarding productive YouTube usage  
   *Tech:* HTML, CSS, Supabase, Express.js, LLaMA  
   [🔗 GitHub Repo](https://github.com/HasanAmmar05/Supabase-Hackathon)
