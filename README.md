@@ -10,7 +10,6 @@
 
 ## 🌱 Currently Learning & Building
 - Full-stack web apps with **ReactJS**, **Next.js**, **Node.js**, **MongoDB**, and **Express.js**
-- Improving design-to-deployment flow with **Sanity CMS**, **NextAuth**, **Vite**, and **Figma**
 - Participating in hackathons to sharpen team collaboration and real-world problem-solving
 
 ---
@@ -32,7 +31,7 @@
 ---
 
 ## 💻 Tech Stack Summary  
-`JavaScript` • `TypeScript` • `React.js` • `Next.js` • `Node.js` • `MongoDB` • `Tailwind CSS` • `Supabase` • `Express.js`
+`JavaScript` • `TypeScript` • `React.js` • `Next.js` • `Node.js` • `Express.js` • `Tailwind CSS` • `Supabase` 
 
 ---
 
@@ -57,7 +56,6 @@
 ### 🛠️ Backend
 <img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
 <img align="left" alt="Express.js" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" />
-<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />
 <img align="left" alt="Supabase" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/supabase/supabase.png" />
 <br/><br/>
 
@@ -69,8 +67,6 @@
 
 ### 🧰 Tools
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
-<img align="left" alt="Vite" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" />
-<img align="left" alt="Sanity" width="50px" src="https://avatars.githubusercontent.com/u/17177659?s=200&v=4" />
 <img align="left" alt="Figma" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" />
 <br/><br/>
 
