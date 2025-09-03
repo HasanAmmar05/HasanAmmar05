@@ -44,11 +44,11 @@
 <br/><br/>
 
 ### 🎨 Frontend
+<img align="left" alt="Next.js" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" />
+<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
+<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
 <img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
-<img align="left" alt="Next.js" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" />
 <img align="left" alt="Tailwind" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
 <br/><br/>
 
