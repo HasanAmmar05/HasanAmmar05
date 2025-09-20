@@ -2,7 +2,7 @@
 
 🚀 Building solutions with code & curiosity | Web Dev | AI Explorer | UTM SE '27  
 
-🎓 2nd-year Software Engineering student at Universiti Teknologi Malaysia 
+🎓 3rd-year Software Engineering student at Universiti Teknologi Malaysia 
 🏆 Hackathon awardee — “Best Product Quality” at I-Hax 2024  
 📍 Kuala Lumpur, Malaysia  
 
