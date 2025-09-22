@@ -9,7 +9,7 @@
 ---
 
 ## 🌱 Currently Learning & Building
-- Full-stack web apps with **ReactJS**, **Next.js**, **Node.js**, **MongoDB**, and **Express.js**
+- Full-stack web apps with **ReactJS**, **Next.js**, **Supabase**, **Firebase**, and **Express.js**
 - Participating in hackathons to sharpen team collaboration and real-world problem-solving
 
 ---
