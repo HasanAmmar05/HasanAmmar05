@@ -64,7 +64,7 @@ Not portfolio projects. Real systems. Real users.
 
 ---
 
-### 🎓 EdTech SaaS Platform `Contractor · Active`
+### 🎓 EdTech SaaS Platform `Contractor`
 
 > *Building live AI mentorship features and infrastructure*
 
@@ -123,6 +123,15 @@ Mobile application protecting enterprises from AI-generated voice scam calls. VG
 Award-winning IoT deployment at UTMKL improving public toilet hygiene and usability. Designed and built the interactive touchscreen UI displaying real-time toilet availability, cleanliness ratings, and cleaning confirmations — connected to IoT sensors via Raspberry Pi backend.
 
 `React` `Node.js` `PostgreSQL` `TouchScreen UI`
+
+---
+
+### 🏫 SK Sentul 2 Payment Management System
+`Coursework · Solo · Client Project`
+
+Full-stack school fee management system digitizing payment operations for a primary school. Built across 4 user roles — parents, teachers, treasurers, and admins — with proof-based payment submission, multi-step approval workflows, class-level monitoring dashboards, CSV/PDF report exports, and printable receipts. Modeled on real school workflows across 18 classes with multi-child parent accounts and transactional payment state transitions.
+
+`Next.js` `TypeScript` `Supabase` `PostgreSQL` `Tailwind CSS` `Radix UI`
 
 ---
 
