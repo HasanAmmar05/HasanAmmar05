@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://hasanaltalib.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://hasan-d3v.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-al-talib-6095b3323/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HasanAmmar05)
 [![Email](https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:altalib.hasan05@gmail.com)
@@ -356,15 +356,6 @@ Award-winning IoT deployment at UTMKL. Designed and built the interactive touchs
 
 `Kuala Lumpur, Malaysia` &nbsp;·&nbsp; `Open to Opportunities` &nbsp;·&nbsp; `AI & Full-Stack Engineering`
 
-**[→ Portfolio](https://hasanaltalib.dev)** &nbsp;·&nbsp; **[→ LinkedIn](https://www.linkedin.com/in/hasan-al-talib-6095b3323/)** &nbsp;·&nbsp; **[→ Email](mailto:altalib.hasan05@gmail.com)**
-
-</div>
----
-
-<div align="center">
-
-`Kuala Lumpur, Malaysia · Open to Internships 2025 · AI & Full-Stack`
-
-**[→ Full Portfolio](https://hasanaltalib.dev)** · **[→ LinkedIn](https://www.linkedin.com/in/hasan-al-talib-6095b3323/)** · **[→ Email](mailto:altalib.hasan05@gmail.com)**
+**[→ Portfolio](https://hasan-d3v.vercel.app)** &nbsp;·&nbsp; **[→ LinkedIn](https://www.linkedin.com/in/hasan-al-talib-6095b3323/)** &nbsp;·&nbsp; **[→ Email](mailto:altalib.hasan05@gmail.com)**
 
 </div>
