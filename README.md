@@ -1,108 +1,177 @@
-# Hi 👋, I'm Hasan Al-Talib  
+<div align="center">
 
-🚀 Building solutions with code & curiosity | Web Dev | AI Explorer | UTM SE '27  
+```
+███████╗██╗   ██╗██╗     ██╗         ███████╗████████╗ █████╗  ██████╗██╗  ██╗
+██╔════╝██║   ██║██║     ██║         ██╔════╝╚══██╔══╝██╔══██╗██╔════╝██║ ██╔╝
+█████╗  ██║   ██║██║     ██║         ███████╗   ██║   ███████║██║     █████╔╝ 
+██╔══╝  ██║   ██║██║     ██║         ╚════██║   ██║   ██╔══██║██║     ██╔═██╗ 
+██║     ╚██████╔╝███████╗███████╗    ███████║   ██║   ██║  ██║╚██████╗██║  ██╗
+╚═╝      ╚═════╝ ╚══════╝╚══════╝    ╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
+```
 
-🎓 3rd-year Software Engineering student at Universiti Teknologi Malaysia 
-🏆 Hackathon awardee — “Best Product Quality” at I-Hax 2024  
-📍 Kuala Lumpur, Malaysia  
+### `// Full-Stack Engineer · AI Engineer`
 
----
+**Building production AI systems that handle real patients, real customers, real scale.**
 
-## 🌱 Currently Learning & Building
-- Full-stack web apps with **ReactJS**, **Next.js**, **Supabase**, **Firebase**, and **Express.js**
-- Participating in hackathons to sharpen team collaboration and real-world problem-solving
+[![Portfolio](https://img.shields.io/badge/Portfolio-hasanaltalib.dev-2563eb?style=flat-square&logo=vercel&logoColor=white)](https://hasanaltalib.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hasan_Al--Talib-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-al-talib-6095b3323/)
+[![Email](https://img.shields.io/badge/Email-altalib.hasan05@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:altalib.hasan05@gmail.com)
+![Available](https://img.shields.io/badge/Status-Available_for_Internships-22c55e?style=flat-square)
 
----
-
-## 🚀 Relevant Projects
-
-- 🔒 **GeoGuard** – Real-time crime visualization app (🏅 I-Hax 2024 winner)  
-  *Tech:* React.js, Node.js, Tailwind CSS, MongoDB, LLaMA  
-  [🔗 GitHub Repo](https://github.com/KaifHalak/I-HAX-Team-IT-Support)
-
-- 📈 **ProductiveGrounds** – Chrome extension rewarding productive YouTube usage  
-  *Tech:* HTML, CSS, Supabase, Express.js, LLaMA  
-  [🔗 GitHub Repo](https://github.com/HasanAmmar05/Supabase-Hackathon)
-
-- 🧾 **Subscription Tracker API** – RESTful backend for subscription management  
-  *Tech:* Node.js, Express.js, MongoDB, JWT  
-  [🔗 GitHub Repo](https://github.com/HasanAmmar05/Subscription-Tracker-API)
+</div>
 
 ---
 
-## 💻 Tech Stack Summary  
-`JavaScript` • `TypeScript` • `React.js` • `Next.js` • `Node.js` • `Express.js` • `Tailwind CSS` • `Supabase` 
+## `whoami`
+
+```python
+hasan = {
+    "role":       "Full-Stack Engineer · AI Engineer",
+    "education":  "Software Engineering @ UTM (Final Year) — 3.93 CGPA",
+    "location":   "Kuala Lumpur, Malaysia",
+    "contracts":  2,  # both active, both in production
+    "ai_systems": 5,  # deployed, serving real users
+    "target":     "ML/MLOps Internship 2025"
+}
+```
+
+Final-year SE student at UTM with a contract role as an AI Engineer at a Malaysian healthcare tech company. I design and ship production AI systems — voice pipelines, medical chatbots, and multi-model architectures that run at scale. I also build full-stack SaaS infrastructure as a contractor for an EdTech platform.
+
+Not portfolio projects. Real systems. Real users.
 
 ---
 
-## 🧠 Skills
+## `production_work/`
 
-### 👨‍💻 Languages
-<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
-<img align="left" alt="C++" width="50px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
-<br/><br/>
+### 🏥 Healthcare Tech Company `Contract · Active`
 
-### 🎨 Frontend
-<img align="left" alt="Next.js" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" />
-<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
-<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
-<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
-<img align="left" alt="Tailwind" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
-<br/><br/>
+> *Designing and deploying AI systems serving real patients and customers*
 
-### 🛠️ Backend
-<img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
-<img align="left" alt="Express.js" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" />
-<img align="left" alt="Supabase" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/supabase/supabase.png" />
-<br/><br/>
+| System | Stack | Scale |
+|--------|-------|-------|
+| **AI Voice Caller Pipeline** — End-to-end voice AI for patient outreach | ElevenLabs · n8n · WhatsApp · Google Sheets | Live |
+| **Ava Medical Chatbot** — AI assistant for healthcare e-commerce | Flowise · WooCommerce | Live |
+| **Customer Message Categorization** — Automated triage pipeline | n8n · Custom AI Pipeline | 20K+ msg/mo |
+| **Retail Bot Redesign** — Full flow rearchitecture with behaviour tuning | Flowise · Custom KB | Live |
+| **Weight Loss Sales Bot** — Conversion-focused AI sales assistant | Flowise · Custom AI | Live |
 
-### 📊 APIs & Databases
-<img align="left" alt="GraphQL" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png" />
-<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
-<img align="left" alt="PostgreSQL" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" />
-<br/><br/>
-
-### 🧰 Tools
-<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
-<img align="left" alt="Figma" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" />
-<br/><br/>
-
-
+💰 Driving **$15K/year run rate** in cloud cost savings through GCP + AWS optimizations
 
 ---
 
-## 📜 Certifications
-- [Meta – Front-End Developer Specialization](https://www.coursera.org/account/accomplishments/specialization/BZ78CTCI7RJ9)  
-- [Scrimba – Professional React Developer](https://www.coursera.org/account/accomplishments/professional-cert/8RFHG01Q8EMD)  
-- [Nvidia – AI Infrastructure and Operations Fundamentals](https://www.coursera.org/account/accomplishments/specialization/5XE3EESIIH5U)  
-- [IBM – Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/verify/XQHXBA87DOZ2)  
-- [Google – Introduction to Generative AI](https://www.coursera.org/account/accomplishments/verify/QGBN1BS6EVVY)  
-- [Intel – AI Fundamentals](https://www.coursera.org/account/accomplishments/verify/MLK39B64QO7X)
+### 🎓 EdTech SaaS Platform `Contractor · Active`
+
+> *Building live AI mentorship features and infrastructure*
+
+- Refactored a **1,300-line monolith → modular hooks and services** (~85% main file reduction)
+- End-to-end **mentor booking pipeline** — Stripe, Zoom API, Firestore, webhook fulfillment
+- **14 Firebase Cloud Functions** — session reminders, inactivity campaigns, referral triggers
+- Referral & fraud detection system with ledger-based conversion tracking
+- SendGrid email infrastructure — confirmations, tiered reminders, bulk announcements
+- 4 real-time HCI coaching features — gaze guidance, audio waveform, filler word detection, pace lighting
 
 ---
 
-## 📫 Let's Connect
+## `featured_projects/`
 
-- 📧 Email: altalib.hasan05@gmail.com | ammar.abdulaziz@graduate.utm.my  
-- 📞 Phone: +6011-1118-5124  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/hasan-al-talib-6095b3323/)  
-- 🧑‍💻 [GitHub](https://github.com/HasanAmmar05)  
+### 🌊 [BanjirSiaga](https://github.com/HasanAmmar05) — AI Flood Intelligence for Malaysia
+`Solo · GDG KL × DeepMind Hackathon`
 
----
+Built a bilingual flood risk assessment system with live weather data, government warnings, and multimodal AI. Implemented a **3-tier AI fallover cascade**: Gemini → Groq → deterministic rule engine for reliability under API failure.
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanAmmar05&layout=compact&theme=dark)  
-![Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HasanAmmar05&show_icons=true&theme=dark)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=HasanAmmar05&theme=dark)](https://git.io/streak-stats)
+`Python` `FastAPI` `Google Gemini` `Groq` `Supabase` `Leaflet.js` `Docker` `Cloud Run`
 
 ---
 
-_Thanks for stopping by! 🙌_  
-_“Striving to build meaningful tech, one project at a time.”_
+### 🔒 [GeoGuard](https://github.com/KaifHalak/I-HAX-Team-IT-Support) — Crime & Safety Intelligence Map
+`🏆 I-HAX 2024 Winner · Hackathon`
 
+AI-powered map platform aggregating real-time crime data and safety intelligence for Malaysian areas.
+
+`ReactJS` `Tailwind CSS` `NodeJS` `ExpressJS` `Llama 3.1`
 
 ---
 
+### 💊 [PassYourLicense](https://github.com/HasanAmmar05) — Nursing Exam Prep Platform
+`Live Product · Solo · Paid Users`
+
+The only nursing licensure exam prep platform for Palestinian nursing students. Chapter quizzes, wrong-answer drills, timed exam simulation, subscription management — built and shipped solo.
+
+> `correctness enforced server-side, always`
+
+`Next.js 15` `Supabase` `TypeScript` `Tailwind v4` `Resend` `Vercel`
+
+---
+
+### 📱 GodamLah (DCDM) — Deepfake Call Detection
+`Hackathon · Team · Dec 2024`
+
+Mobile application protecting enterprises from AI-generated voice scam calls. VGGish + LSTM model analyzes tone and behavioral patterns in real-time to flag impersonation attempts. Contributed to product ideation, pitch framing, and submission.
+
+`Figma` `Kotlin` `TensorFlow`
+
+---
+
+### 🚽 IoT Smart WC Monitoring System
+`🏅 UTMKL Award · Team`
+
+Award-winning IoT deployment at UTMKL improving public toilet hygiene and usability. Designed and built the interactive touchscreen UI displaying real-time toilet availability, cleanliness ratings, and cleaning confirmations — connected to IoT sensors via Raspberry Pi backend.
+
+`React` `Node.js` `PostgreSQL` `TouchScreen UI`
+
+---
+
+## `toolkit/`
+
+```
+AI & Cloud      Google Gemini  Groq  ElevenLabs  Flowise  n8n
+                Firebase Cloud Functions  Supabase Edge Functions
+                Google Cloud Run  Docker
+
+Frontend        React  Next.js  TypeScript  Tailwind CSS  JavaScript
+
+Backend         Node.js  Express.js  FastAPI  REST APIs
+
+Database        Firebase/Firestore  Supabase  PostgreSQL  MySQL
+
+Integrations    Stripe  Zoom API  SendGrid  SAML SSO
+
+Tools           Git  Jest  Figma  C++
+```
+
+---
+
+## `certifications/`
+
+| Issuer | Certification |
+|--------|--------------|
+| Google Cloud | Introduction to Generative AI |
+| Google Cloud | Responsible AI: Applying AI Principles |
+| Google Cloud | Introduction to Large Language Models |
+| Intel | AI Essentials · AI Fundamentals |
+| Nvidia | AI Infrastructure and Operations Fundamentals |
+| IBM | Python for Data Science, AI & Development · Databases and SQL |
+| Meta | Front-End Developer Specialization |
+| Scrimba | Professional React Developer · Responsive Web Design |
+
+---
+
+## `stats/`
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanAmmar05&layout=compact&theme=dark&hide_border=true&bg_color=080d1a&title_color=2563eb&text_color=94a3b8)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HasanAmmar05&show_icons=true&theme=dark&hide_border=true&bg_color=080d1a&title_color=2563eb&text_color=94a3b8&icon_color=06b6d4)
+
+</div>
+
+---
+
+<div align="center">
+
+`Kuala Lumpur, Malaysia · Open to Internships 2025 · AI & Full-Stack`
+
+**[→ Full Portfolio](https://hasanaltalib.dev)** · **[→ LinkedIn](https://www.linkedin.com/in/hasan-al-talib-6095b3323/)** · **[→ Email](mailto:altalib.hasan05@gmail.com)**
+
+</div>
