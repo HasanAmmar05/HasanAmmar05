@@ -26,12 +26,15 @@
 
 ```python
 hasan = {
-    "role":       "Full-Stack Engineer · AI Engineer",
-    "education":  "Software Engineering @ UTM (Final Year) — 3.93 CGPA",
-    "location":   "Kuala Lumpur, Malaysia",
-    "contracts":  2,  # both active, both in production
-    "ai_systems": 5,  # deployed, serving real users
-    "target":     "ML/MLOps Internship 2025"
+    "role":        "Full-Stack Engineer · AI Engineer",
+    "education":   "Software Engineering @ UTM (Final Year) — 3.93 CGPA",
+    "awards":      "Dean's List — 5 Consecutive Semesters",
+    "leadership":  "Software Engineering Association — Project Manager",
+    "location":    "Kuala Lumpur, Malaysia",
+    "contracts":   2,   # both active, both in production
+    "ai_systems":  5,   # deployed, serving real users
+    "users_served": "1.2M+",  # monthly platform users
+    "target":      "ML/MLOps Internship 2025"
 }
 ```
 
@@ -55,7 +58,9 @@ Not portfolio projects. Real systems. Real users.
 | **Retail Bot Redesign** — Full flow rearchitecture with behaviour tuning | Flowise · Custom KB | Live |
 | **Weight Loss Sales Bot** — Conversion-focused AI sales assistant | Flowise · Custom AI | Live |
 
-💰 Driving **$15K/year run rate** in cloud cost savings through GCP + AWS optimizations
+- 🚀 Load tested all critical services before a major platform migration serving **1.2M monthly users** — diagnosed and resolved production incidents including PHP thread exhaustion, database bloat, and disk saturation on live infrastructure
+- ⚙️ Optimized K8s-hosted Chatwoot deployment on Cloud Run; executed cloud cost reductions across AWS + GCP
+- 💰 Driving **$15K/year run rate** in cloud cost savings
 
 ---
 
@@ -95,7 +100,7 @@ AI-powered map platform aggregating real-time crime data and safety intelligence
 ### 💊 [PassYourLicense](https://github.com/HasanAmmar05) — Nursing Exam Prep Platform
 `Live Product · Solo · Paid Users`
 
-The only nursing licensure exam prep platform for Palestinian nursing students. Chapter quizzes, wrong-answer drills, timed exam simulation, subscription management — built and shipped solo.
+The only nursing licensure exam prep platform for nursing students across the Middle East. Chapter quizzes, wrong-answer drills, timed exam simulation, subscription management — built and shipped solo. Sub-second response times at **1,000+ concurrent users** confirmed via k6 load testing.
 
 > `correctness enforced server-side, always`
 
@@ -124,9 +129,10 @@ Award-winning IoT deployment at UTMKL improving public toilet hygiene and usabil
 ## `toolkit/`
 
 ```
-AI & Cloud      Google Gemini  Groq  ElevenLabs  Flowise  n8n
-                Firebase Cloud Functions  Supabase Edge Functions
-                Google Cloud Run  Docker
+AI & Cloud      Google Gemini  Groq  ElevenLabs  Flowise  n8n  LangChain
+                RAG Pipelines  Firebase Cloud Functions  Supabase Edge Functions
+                Google Cloud Run  Kubernetes (K8s)  Docker
+                AWS (S3 · EC2 · IAM · DynamoDB)  GCP (Cloud Run · Cloud SQL)
 
 Frontend        React  Next.js  TypeScript  Tailwind CSS  JavaScript
 
@@ -136,7 +142,7 @@ Database        Firebase/Firestore  Supabase  PostgreSQL  MySQL
 
 Integrations    Stripe  Zoom API  SendGrid  SAML SSO
 
-Tools           Git  Jest  Figma  C++
+Tools           Git  Jest  Figma  k6  C++
 ```
 
 ---
@@ -145,6 +151,8 @@ Tools           Git  Jest  Figma  C++
 
 | Issuer | Certification |
 |--------|--------------|
+| ⭐ DeepLearning.AI · Stanford | **[Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/Z7LT8I6SZBG3)** (Andrew Ng) |
+| ⭐ DeepLearning.AI | **Deep Learning Specialization** — [Neural Networks & Deep Learning](https://drive.google.com/file/d/1c71DVA27k5hn4_cCf7uFaOssAcQ37I2H/view) · [Improving Deep Neural Networks](https://drive.google.com/file/d/19KYvGFXCSU-aEuKez40FWDIvd5xXihX1/view) |
 | Google Cloud | Introduction to Generative AI |
 | Google Cloud | Responsible AI: Applying AI Principles |
 | Google Cloud | Introduction to Large Language Models |
